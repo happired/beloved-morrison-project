@@ -104,6 +104,7 @@ img {
     left: 50%;
     margin-left: -3px;
     top: 1000;
+    z-index: -1;
 }
 .title {
     padding-bottom: 10px;
