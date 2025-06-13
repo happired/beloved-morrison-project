@@ -8,7 +8,7 @@ html {
  
  a {
   text-decoration: none;
-  color: #43291F;
+  color: #5c1911;
  } 
  
  #comparison {
@@ -19,7 +19,7 @@ html {
  } 
 
 body {
-    background-color: #43291F;
+    background-color: #5c1911;
 }
 
 table {
@@ -66,7 +66,7 @@ img {
   line-height: 100px;
   border-radius: 50%;
   font-size: 20px;
-  color: #43291F;
+  color: #5c1911;
   text-align: center;
   background: #d7bf67;
   margin: auto;
@@ -79,7 +79,7 @@ img {
   border-radius: 50%;
   font-size: 20px;
   margin: auto;
-  color: #43291F;
+  color: #5c1911;
   text-align: center;
   background: #d7bf67;
 }
@@ -92,18 +92,18 @@ img {
   border-radius: 50%;
   font-size: 20px;
   margin: auto;
-  color: #43291F;
+  color: #5c1911;
   text-align: center;
   background: #d7bf67;
 }
 
 .vl {
     border-left: 6px solid #d7bf67;
-    height: 3500px;
+    height: 6000px;
     position: absolute;
     left: 50%;
     margin-left: -3px;
-    top: 1000;
+    top: 0;
     z-index: -1;
 }
 .title {
